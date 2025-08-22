@@ -1,3 +1,6 @@
+## 2024.2_v1.1.1
+* No Changes
+
 ## 2024.1_v1.0.1
 * New document number
 * Added CFGBVS voltage constraints
